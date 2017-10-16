@@ -1,0 +1,4 @@
+git clone -> Clona un proyecto
+git add . -> Pasa TODOS los archivos al estado AÑADIDO
+git commit -m "Aqui va un mensaje" -> Pasa TODOS los archivos añadidos al estado COMMITEADO (Es como tomar una foto - Versión)
+git push origin master ( origin = remoto, master = branch) -> Publica todos los commits y los sube al servidor 
